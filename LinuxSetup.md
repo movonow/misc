@@ -1,4 +1,4 @@
-
+<pre>
 
 ==============================BASH==============================
 
@@ -54,3 +54,4 @@ let NERDTreeWinPos="left"
 let NERDTreeShowHidden=1
 let NERDTreeAutoDeleteBuffer=1
 let NERDTreeAutoDeleteBuffer=1
+</pre>
